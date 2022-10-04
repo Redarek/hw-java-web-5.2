@@ -1,6 +1,0 @@
-ru/netology/testmode/data/DataGenerator.java
- ru.netology.testmode.data.DataGenerator
- ru.netology.testmode.data.DataGenerator$Registration
- ru.netology.testmode.data.DataGenerator$RegistrationDto
-ru/netology/testmode/test/AuthTest.java
- ru.netology.testmode.test.AuthTest
